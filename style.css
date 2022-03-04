@@ -1,4 +1,3 @@
-
 .header {
     position: fixed;
     background-color: black;
@@ -6,4 +5,11 @@
     left: 0;
     width: 100%;
     height: 60px;
+}
+
+.title { 
+    color: white;
+    font-size: 30px;
+    margin-top: 0.8%;
+    margin-left: 2%;
 }
