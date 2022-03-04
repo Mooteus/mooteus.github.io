@@ -13,9 +13,8 @@ body {
 
 .title { 
     font-family: 'Roboto', sans-serif;
-    font-family: 'Roboto Serif', serif;
     color: white;
     font-size: 30px;
-    margin-top: 1%;
+    margin-top: 0.8%;
     margin-left: 2%;
 }
